@@ -1,8 +1,7 @@
 body {
  border: 0px;
   padding: 0px;
-   overflow: hidden;
- display: flex;
-  flex-wrap: wrap;
+  overflow-y: hidden; /* Hide vertical scrollbar */
+
   align-content: center;
 }
