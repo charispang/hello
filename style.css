@@ -1,7 +1,6 @@
 body {
   background-color: powderblue;
   overflow: hidden;
-  border-style:none;
   border-color: blue;
-  padding: 1000px;
+  padding: 10px;
 }
