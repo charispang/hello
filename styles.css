@@ -1,8 +1,6 @@
 body {
-
-  overflow: hidden;
  border: 0px;
-  padding: 10px;
+  padding: 0px;
    overflow: hidden;
  display: flex;
   flex-wrap: wrap;
