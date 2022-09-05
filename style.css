@@ -1,3 +1,6 @@
 body {
   background-color: powderblue;
+  overflow: hidden;
+  padding: 0;
+  border-style:none;
 }
